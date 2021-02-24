@@ -1,5 +1,5 @@
 <div align="center">
-<h1>ph-id-validator</h1>
+<h1>ph-id-validator </h1>
 
 <p>Validate your PH identification cards with ease</p>
 </div>
